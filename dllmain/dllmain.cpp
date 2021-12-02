@@ -3,7 +3,6 @@
 #include "dllmain.h"
 #include <string>
 #include <Shlwapi.h>
-#include "pch.h"
 
 #if defined _M_X64
 #pragma comment(lib, "libMinHook.x64.lib")

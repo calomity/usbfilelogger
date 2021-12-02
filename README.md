@@ -1,2 +1,2 @@
 # usbfilelogger
-EXTREMELY simple file logger on plugged new device :D (with ntquerydirectoryfile and ntquerysysteminformation hook)
+EXTREMELY ntquerydirectoryfile and ntquerysysteminformation hook on dll (i dont want to write driver for that idk)
